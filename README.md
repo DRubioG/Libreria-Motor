@@ -10,4 +10,4 @@ Este es un proyecto para conseguir que un coche se mueva mediante Bluetooth depe
  - '5':  giro simultáneo de los dos motores hacia la derecha
  - '6':  giro simultáneo de los dos motores hacia la izquierda
  
- **Debido a unos problemas con la función motor() en motor.h no se recomienda que se pruebe el código usando dicha función.
+** La Libreria está en Motor.zip **
