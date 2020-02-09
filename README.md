@@ -9,5 +9,6 @@ Este es un proyecto para conseguir que un coche se mueva mediante Bluetooth depe
  - '4':  hacia la izquierda
  - '5':  giro simultáneo de los dos motores hacia la derecha
  - '6':  giro simultáneo de los dos motores hacia la izquierda
+ - Otros : bloqueo del motor
  
 ** La Libreria está en Motor.zip **
