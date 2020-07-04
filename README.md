@@ -25,3 +25,9 @@ Esta librería es la encargada de hacer funcionar los motores de un vehiculo de 
 - **_GiroOp()_**: esta función es la encargada de de hacer que el vehículo gire en sentido horario, con un valor de PWM para ambos motores de 255
 - **_GiroOp(int vel)_**: esta función es la encargada de hacer que el vehículo gire en sentido horario, con un valor de PWM para ambos motores de _vel_
 - **_Bloqueo()_**: esta función es la encargada de hacer que el vehículo bloqueé ambos motores
+
+### Ejemplos ###
+Esta librería incorpora dos ejemplos:
+  - Motor_Example: que hace funcionar el vehículo mediante un código
+  - Motor_Bluetooth_Example: que hace lo mismo que el anterior ejemplo pero el código se le manda por Bluetooth
+    
